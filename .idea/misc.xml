@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/jt-logserver" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/jt-logserver/pom.xml" />
+        <option value="$PROJECT_DIR$/hadoop-hdfs/pom.xml" />
+        <option value="$PROJECT_DIR$/hadoop-mapreduce/pom.xml" />
+        <option value="$PROJECT_DIR$/hdfstest1/pom.xml" />
+        <option value="$PROJECT_DIR$/mapreduce/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../../../../temp/hdfs2012/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../../../../temp/mapReduce2012/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

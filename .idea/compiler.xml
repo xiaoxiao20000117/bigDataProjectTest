@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hadoop-mapreduce" />
+        <module name="mapReduce2012" />
+        <module name="mapreduce" />
+        <module name="hadoop-hdfs" />
+        <module name="jt-logserver" />
+        <module name="hdfstest1" />
+        <module name="hdfs2012" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hadoop-hdfs" target="1.5" />
+      <module name="hadoop-mapreduce" target="1.5" />
+      <module name="hdfs2012" target="1.7" />
+      <module name="hdfstest1" target="1.7" />
+      <module name="httpToFlume" target="1.7" />
+      <module name="jt-logserver" target="1.5" />
+      <module name="mapreduce" target="1.7" />
+      <module name="mapReduce2012" target="1.7" />
+      <module name="mapredude" target="1.7" />
+      <module name="mapredue" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

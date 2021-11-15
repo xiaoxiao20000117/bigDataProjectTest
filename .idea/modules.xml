@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hadoop-hdfs/hadoop-hdfs.iml" filepath="$PROJECT_DIR$/hadoop-hdfs/hadoop-hdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hadoop-mapreduce/hadoop-mapreduce.iml" filepath="$PROJECT_DIR$/hadoop-mapreduce/hadoop-mapreduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../../../temp/hdfs2012/hdfs2012.iml" filepath="$PROJECT_DIR$/../../../../../../../../temp/hdfs2012/hdfs2012.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hdfstest1/hdfstest1.iml" filepath="$PROJECT_DIR$/hdfstest1/hdfstest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jt-logserver/jt-logserver.iml" filepath="$PROJECT_DIR$/jt-logserver/jt-logserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../../../temp/mapReduce2012/mapReduce2012.iml" filepath="$PROJECT_DIR$/../../../../../../../../temp/mapReduce2012/mapReduce2012.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapreduce/mapreduce.iml" filepath="$PROJECT_DIR$/mapreduce/mapreduce.iml" />
+    </modules>
+  </component>
+</project>
